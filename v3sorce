@@ -1,5 +1,8 @@
--- this is tubers admin v3 beta credits to adoins admin lol
--- also a server sided script so dont abuse it!!!
+--[LEAKED TUBERS ADMIN V3 BETA]--
+
+-- and if you are trying to edit the script i will get notified and this thing grabs your ip auto maticly and it will be showing in my discord lol--
+-- this is tubers admin v3 beta credits to adoins admin lol the people who i got there commands from and there ui / gui--
+-- and btw this script has some server sided commands in it so please dont abuse it!!!--
 
 local opt = {
 	prefix = ';',			-- ;ff me | /ff me
