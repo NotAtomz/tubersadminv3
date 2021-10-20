@@ -1,0 +1,7 @@
+local key = _G.Key
+local check = "https://raw.githubusercontent.com/officialtubers93/tubersadminv3/main/keysystem?key=" .. key
+if game:HttpGet(check) == "Whitelisted" then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/officialtubers93/tubersadminv3/main/v3sorce"))()
+else
+game.Players.LocalPlayer:Kick("Invalid Key! Please Rejoin And Try Again.")
+end
